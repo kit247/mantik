@@ -1,0 +1,2 @@
+# mantik
+Interested in programming.
